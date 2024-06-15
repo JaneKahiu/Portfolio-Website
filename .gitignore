@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+
+# Database
+db.sqlite3
+*.pyc
+
+# Static files
+staticfiles/
+
+# Media files
+media/
+
+# IDE-specific
+.vscode/
+.idea/
+
+# Configuration
+*.env
+
+# Dependency directories
+node_modules/
